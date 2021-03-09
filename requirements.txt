@@ -8,3 +8,4 @@ statsmodels==0.12.2
 sklearn==0.0
 pytest==6.2.2
 testbook==0.2.6
+pandas-profiling==2.11.0
