@@ -9,3 +9,4 @@ sklearn==0.0
 pytest==6.2.2
 testbook==0.2.6
 pandas-profiling==2.11.0
+imbalanced-learn==0.8.0
