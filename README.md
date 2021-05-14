@@ -9,6 +9,10 @@ Fraud detection is an important application of machine learning in the financial
 
 This competition is sponsored by Xente, Innovation Village, and insight2impact.
 
+#### **About Xente**
+
+Xente is an e-payments, e-commerce, and financial services company in Uganda offering various products and services that can be paid for using Mobile Money (Airtel Money, MTN Mobile Money), Bank Card (Visa Card, Master Card), Xente wallet and on credit (Pay Later). Some of the products consumers can buy include airtime, data bundles, pay water and electricity bills, TV subscription services, buy event tickets, movie tickets, bus tickets, and more.
+
 
 ##
 Requirements:
