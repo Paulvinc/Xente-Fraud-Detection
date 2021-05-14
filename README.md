@@ -3,9 +3,8 @@
 ![DeveloperPrince](https://lhstartupmaqer.com/wp-content/uploads/2020/03/Xente-300x213.png)
 
 This is a machine learning project of being able to predict whether a transaction is a fraud or not.
-Take note the Dataset is taken from [zindi](zindi.africa) from a closed competition.
+Take note the Dataset is taken from [zindi](https://zindi.africa/competitions/xente-fraud-detection-challenge) from a closed competition.
 
-Data used is the  [coffee quality dataset](https://github.com/jldbc/coffee-quality-database).
 
 ##
 Requirements:
