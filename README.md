@@ -1,6 +1,9 @@
-# ds-modeling-pipeline
-Skeleton project for building a simple model in python script
-This is the simplest way to do it. We train a simple model in the jupyter notebook, where we select only some features and do minimal cleaning. The output is then stored in simple python scripts.
+# FRAUD DETECTION 
+
+![DeveloperPrince](https://lhstartupmaqer.com/wp-content/uploads/2020/03/Xente-300x213.png)
+
+This is a machine learning project of being able to predict whether a transaction is a fraud or not.
+Take note the Dataset is taken from [zindi](zindi.africa) from a closed competition.
 
 Data used is the  [coffee quality dataset](https://github.com/jldbc/coffee-quality-database).
 
