@@ -14,6 +14,14 @@ This competition is sponsored by Xente, Innovation Village, and insight2impact.
 Xente is an e-payments, e-commerce, and financial services company in Uganda offering various products and services that can be paid for using Mobile Money (Airtel Money, MTN Mobile Money), Bank Card (Visa Card, Master Card), Xente wallet and on credit (Pay Later). Some of the products consumers can buy include airtime, data bundles, pay water and electricity bills, TV subscription services, buy event tickets, movie tickets, bus tickets, and more.
 
 
+## **My tasks in this notebook**
+
+**Understanding fraudulent transactions!**
+  * Do fraudulent transactions have a common pattern?
+  * How do they differ from "normal" transactions?
+  * What features are important to recognize fraudulent transactions?
+
+
 ##
 Requirements:
 - pyenv with Python: 3.8.5
