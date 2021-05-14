@@ -5,6 +5,10 @@
 This is a machine learning project of being able to predict whether a transaction is a fraud or not.
 The Dataset is taken from a closed [Zindi](https://zindi.africa/competitions/xente-fraud-detection-challenge) competition.
 
+Fraud detection is an important application of machine learning in the financial services sector. This solution will help Xente provide improved and safer service to its customers.
+
+This competition is sponsored by Xente, Innovation Village, and insight2impact.
+
 
 ##
 Requirements:
