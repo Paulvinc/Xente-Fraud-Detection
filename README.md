@@ -15,10 +15,16 @@ Xente is an e-payments, e-commerce, and financial services company in Uganda off
 
 
 ## **My tasks in this notebook**
+
 **Understanding fraudulent transactions!**
   * Do fraudulent transactions have a common pattern?
   * How do they differ from "normal" transactions?
   * What features are important to recognize fraudulent transactions?
+
+**Error metric**
+  * The error metric for this competition is the F1 score, which ranges from 0 (total failure) to 1 (perfect score). Hence, the closer your score is to 1, the better your model.
+
+  * F1 Score: A performance score that combines both precision and recall. It is a harmonic mean of these two variables. Formula is given as: 2PrecisionRecall/(Precision + Recall)
 
 
 ##
