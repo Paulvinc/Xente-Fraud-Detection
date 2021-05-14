@@ -15,7 +15,6 @@ Xente is an e-payments, e-commerce, and financial services company in Uganda off
 
 
 ## **My tasks in this notebook**
-
 **Understanding fraudulent transactions!**
   * Do fraudulent transactions have a common pattern?
   * How do they differ from "normal" transactions?
