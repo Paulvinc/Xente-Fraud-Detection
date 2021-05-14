@@ -26,12 +26,19 @@ Xente is an e-payments, e-commerce, and financial services company in Uganda off
 
   * F1 Score: A performance score that combines both precision and recall. It is a harmonic mean of these two variables. Formula is given as: 2PrecisionRecall/(Precision + Recall)
 
+**Tech-Stack**
+  * Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
 
-##
-Requirements:
+**Machine Learning Algorithms**
+  *  Logistic Regression,  Random Forests,  Naive Bayes, KNN, XGBoost
+
+**Evaluation & Performance metrics**
+  *  Decision Matrix, feature importance
+
+# Requirements:
 - pyenv with Python: 3.8.5
 
-### Environment
+## Environment
 
 Use the requirements file in this repo to create a new environment.
 
